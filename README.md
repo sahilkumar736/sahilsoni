@@ -10,3 +10,4 @@
 - understand forking
 - git commands-Bashar
 - understanding conflicts-Rashi
+- making branches - Satya
